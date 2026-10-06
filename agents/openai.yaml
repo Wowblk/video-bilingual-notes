@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频双语图文笔记"
+  short_description: "完整逐句翻译视频，保留原文、时间戳和对应截图，不用摘要替代全文"
+  default_prompt: "使用 $video-bilingual-notes 把这个视频转换成保留完整原文、每句原文对应一句中文译文和对应截图的图文文档。"

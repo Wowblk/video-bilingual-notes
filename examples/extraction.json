@@ -1,0 +1,14 @@
+{
+  "transcriptSegments": [
+    {
+      "startMs": 0,
+      "endMs": 2000,
+      "text": "A model learns from data."
+    },
+    {
+      "startMs": 2000,
+      "endMs": 4000,
+      "text": "Check the answer before using it."
+    }
+  ]
+}

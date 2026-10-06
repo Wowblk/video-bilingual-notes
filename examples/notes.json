@@ -1,0 +1,24 @@
+{
+  "kind": "sentence_translation",
+  "unit": "sentence",
+  "sections": [
+    {
+      "title": "Learning",
+      "source_ids": [
+        "c0001"
+      ],
+      "original": "A model learns from data.",
+      "translation": "模型从数据中学习。",
+      "frames": []
+    },
+    {
+      "title": "Verification",
+      "source_ids": [
+        "c0002"
+      ],
+      "original": "Check the answer before using it.",
+      "translation": "使用答案前，先进行核查。",
+      "frames": []
+    }
+  ]
+}

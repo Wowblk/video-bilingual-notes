@@ -1,0 +1,21 @@
+{
+  "title": "Synthetic bilingual example",
+  "url": "",
+  "language": "en",
+  "transcript_source": "original synthetic example",
+  "duration": 4,
+  "cues": [
+    {
+      "id": "c0001",
+      "start": 0,
+      "end": 2,
+      "text": "A model learns from data."
+    },
+    {
+      "id": "c0002",
+      "start": 2,
+      "end": 4,
+      "text": "Check the answer before using it."
+    }
+  ]
+}
